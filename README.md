@@ -16,4 +16,5 @@ Each bug is logged as a separate GitHub Issue with full
 reproduction steps, description with the expected behaviour, and video/screenshots (whatever applicable).
 
 **How to View Reports**
+
 Go to the **Issues** tab above to see all reported bugs.
