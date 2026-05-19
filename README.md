@@ -1,6 +1,6 @@
 # curious-packet-qa-report
 QA bug reports for Carmate Combodia
-# QA Bug Report — [Website Name]
+# QA Bug Report — Carmate Combodia
 
 **Tester**: Mughees Ahmed
 **Date:** 19 May 2025
