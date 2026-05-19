@@ -3,7 +3,9 @@ QA bug reports for Carmate Combodia
 # QA Bug Report — Carmate Combodia
 
 **Tester**: Mughees Ahmed
+
 **Date:** 19 May 2025
+
 **Testing Environment:** Chrome Version 147.0.7727.138 (Official Build) (64-bit), Windows 11
 
 **Summary**
