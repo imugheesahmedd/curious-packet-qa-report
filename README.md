@@ -10,8 +10,10 @@ QA bug reports for Carmate Combodia
 
 **Summary**
 This repository contains bug reports identified during manual QA testing 
-of https://web-dev.carmatekh.com/. Each bug is logged as a separate GitHub Issue with full 
-reproduction steps, expected vs actual results, severity, and screenshots.
+of https://web-dev.carmatekh.com/.
+
+Each bug is logged as a separate GitHub Issue with full 
+reproduction steps, description with the expected behaviour, and video/screenshots (whatever applicable).
 
 **How to View Reports**
 Go to the **Issues** tab above to see all reported bugs.
